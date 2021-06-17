@@ -9,11 +9,13 @@ public class RockPaperScissorsProcess extends Process {
 	
 	@Override
 	public void init() {
-		// TODO
+		// TODO test for git
+		System.out.println("test for git");
 	}
 
 	@Override
 	public void receive(Message m, Channel c) throws IllegalReceiveException {
-		// TODO
+		// TODO test for git
+		
 	}
 }
